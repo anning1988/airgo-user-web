@@ -27,8 +27,8 @@
       "purpose": "maskable"
     }
   ],
-  "name": "App",
-  "short_name": "App",
-  "start_url": "/",
+  "name": "信易",
+  "short_name": "信易",
+  "start_url": "https://xy.ylks.link/",
   "theme_color": "#FFFFFF"
 }
